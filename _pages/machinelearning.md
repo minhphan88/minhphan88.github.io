@@ -1,8 +1,8 @@
 ---
-layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /machinelearning/
+title: "Data Science projects"
 author_profile: true
 header:
   image: "/images/utopia.jpg"
 ---
+Machine learning projects 
