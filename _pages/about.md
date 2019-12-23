@@ -1,7 +1,8 @@
 ---
-title:"About"
+title: "About"
 permalink: /about/
 header:
-  image: "/images/ballon.jpg"
+  image: "/images/avatar.JPG"
 ---
-  I am a data scientist who focuses his interests in exploratory analysis, machine learning and impactful story- telling.
+
+I am a data scientist who excels at data wrangling, exploratory analysis, and impactful story-tellings.
