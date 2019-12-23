@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Minh Phan"
-  avatar           : "/images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ballon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "London, GB"
   email            : "minhphan88@outlook.com"
