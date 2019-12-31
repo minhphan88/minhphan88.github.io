@@ -3,6 +3,6 @@ title: "Preprocessing"
 permalink: /preprocessing/
 author_profile: true
 header:
-  image: "/images/utopia.jpg"
+  image: "/images/neptune.jpg"
 ---
-preprocessing
+Data Preprocessing
