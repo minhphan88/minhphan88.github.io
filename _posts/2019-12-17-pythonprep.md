@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling Project"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [machine learning]
 header:
   image: "/images/neptune.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
