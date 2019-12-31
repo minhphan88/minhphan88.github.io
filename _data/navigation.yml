@@ -8,7 +8,7 @@ main:
     url: /prep/
   - title: "Presentations"
     url: /presentation/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Sample Collections"
+    url: /prep/
   # - title: "Sitemap"
   #   url: /sitemap/
