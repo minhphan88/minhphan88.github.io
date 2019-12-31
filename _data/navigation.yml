@@ -2,12 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine learning"
-    url: /machinelearning/
-  - title: "Data Preprocessing"
-    url: /preprocessing/
-  - title: "Presentations"
-    url: /presentation/
+  - title: "Data Science Projects"
+    url: /projects/
+  #- title: "Data Preprocessing"
+  #  url: /preprocessing/
+  ##  url: /presentation/
 #  - title: "Sample Collections"
   #  url: /prep/
   # - title: "Sitemap"
