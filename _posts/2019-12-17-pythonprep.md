@@ -1,10 +1,8 @@
 ---
-title: "Data Wrangling Project"
+title: "Machine learning Project"
 date: 2018-01-28
-tags: [machine learning]
-header:
-  image: "/images/neptune.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+tags: [machine learning, python]
+excerpt: "Machine learning, Python"
 ---
 
 # H1 Heading
