@@ -1,11 +1,11 @@
 ---
 title: "Machine learning Project"
 date: 2018-01-28
-tags: [machine learning, python]
-excerpt: "Machine learning, Python"
+tags: [Machine Learning in Python]
+excerpt: "Machine learning in Python"
 ---
 
-# H1 Heading
+# Title 1 
 
 ## H2 Heading
 
