@@ -5,7 +5,7 @@ main:
   - title: "Machine learning"
     url: /machinelearning/
   - title: "Data Preprocessing"
-    url: /prep/
+    url: /presentation/
   - title: "Presentations"
     url: /presentation/
 #  - title: "Sample Collections"
