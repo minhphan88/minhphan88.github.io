@@ -1,9 +1,11 @@
 ---
-title: "Data Preprocessing"
+title: "Presentations"
 collection: processing
-type: "Data Wrangling"
-permalink: /processing/Python
-
+type: "Conference talk"
+permalink: /processing/2018-11-30-adhesion-1
+venue: "Casa Mathematica"
+date: 2018-11-30
+location: "Oaxaca, Mexico"
 ---
 
-* **Fall 2018, 2019:** Data Preprocessing in Python
+Presentaions go here
