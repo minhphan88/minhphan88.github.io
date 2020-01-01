@@ -1,11 +1,11 @@
 ---
-title: "Presentations"
+title: "Machine learning Project"
 date: 2018-01-28
-tags: [Presentations]
-excerpt: "Presentations"
+tags: [Machine Learning in Python]
+excerpt: "Machine learning in Python"
 ---
 
-# Title 1
+# Title 1 
 
 ## H2 Heading
 

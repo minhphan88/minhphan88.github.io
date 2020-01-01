@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Data Science Projects"
     url: /projects/
-  #- title: "Data Preprocessing"
-  #  url: /preprocessing/
+  - title: "Data presentations"
+    url: /presentation/
   ##  url: /presentation/
 #  - title: "Sample Collections"
   #  url: /prep/

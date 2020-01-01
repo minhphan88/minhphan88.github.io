@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /projects/
-title: "Data Science projects"
+permalink: /presentation/
+title: "Data Science presentations"
 author_profile: true
 ---
 Data Science Projects
@@ -10,7 +10,7 @@ Data Science Projects
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  <h2 id="{{ "Presentations" | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
