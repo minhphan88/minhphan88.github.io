@@ -9,9 +9,9 @@
 locale                   : "en-UK"
 title                    : "Minh Phan"
 title_separator          : "-"
-name                     : &name "Minh Phan"
-description              : &description "Master of Data Science (Distinction)- RMIT University"
-url                      : https://minhphan88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Minh Phan"
+description              : "Data Science Porfolio"
+url                      : "https://minhphan88.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Minh Phan"
   avatar           : "bio.jpg"
-  bio              : "Master of Data Science"
+  bio              : "Master of Data Science (Distinction)"
   location         : "London, GB"
   employer         :
   pubmed           :
