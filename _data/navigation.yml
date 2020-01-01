@@ -3,14 +3,17 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Machine Learning"
-    url: /machinelearning/
-
   - title: "Data Preprocessing"
-    url: /preprocessing/
+    url: /publications/
 
-  - title: "Presentations"
-    url: /presentaions/
+  - title: "Presentaions"
+    url: /talks/
+
+  - title: "Machine Learning"
+    url: /teaching/
+
+  - title: "Projects"
+    url: /portfolio/
 
     #- title: "Blog Posts"
     #- url: /year-archive/
