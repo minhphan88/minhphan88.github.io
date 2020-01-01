@@ -1,13 +1,22 @@
-# main links
+# main links links
 main:
   - title: "About"
     url: /about/
-  - title: "Data Science Projects"
-    url: /projects/
+
+  - title: "Machine Learning"
+    url: /machinelearning/
+
   - title: "Data Preprocessing"
     url: /preprocessing/
-  ##  url: /presentation/
-#  - title: "Sample Collections"
-  #  url: /prep/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+  - title: "Presentations"
+    url: /presentaions/
+
+    #- title: "Blog Posts"
+    #- url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
+
+    #- title: "Guide"
+    #- url: /markdown/

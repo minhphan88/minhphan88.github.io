@@ -5,7 +5,7 @@ tags: [Machine Learning in Python]
 excerpt: "Machine learning in Python"
 ---
 
-# Title 1 
+# Title 1
 
 ## H2 Heading
 
