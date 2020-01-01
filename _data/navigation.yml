@@ -4,9 +4,9 @@ main:
     url: /about/
 
   - title: "Data Preprocessing"
-    url: /publications/
+    url: /preprocessing/
 
-  - title: "Presentaions"
+  - title: "Presentations"
     url: /talks/
 
   - title: "Machine Learning"
