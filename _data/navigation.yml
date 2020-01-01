@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Data Preprocessing"
-    url: /preprocessing/
+    url: /processing/
 
   - title: "Presentations"
     url: /talks/
