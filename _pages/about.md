@@ -1,7 +1,8 @@
 ---
+title: "About"
 permalink: /about/
-title: "About me"
-author_profile: true
 ---
 
-about me etc....
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
