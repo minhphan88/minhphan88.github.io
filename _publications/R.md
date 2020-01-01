@@ -1,7 +1,7 @@
 ---
 title: "Data Preprocessing in R"
 collection: publications
-permalink: /publication/2017-02-14-barnacles-bullies
+permalink: /publication/R
 excerpt: 'Data Preprocessing in R'
 
 ---
