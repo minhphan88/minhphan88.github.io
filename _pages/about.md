@@ -1,8 +1,12 @@
 ---
-title: "About"
-permalink: /about/
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+etc
+i'm asdjhjashfsdfsdf jsdfierhsdfio

@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "About me"
-    url: /about/
+  #- title: "About me"
+  #  url: /about/
 
   - title: "Data Preprocessing"
     url: /processing/
 
-  - title: "Presentations"
+  - title: "Machine Learning"
     url: /talks/
 
-  - title: "Machine Learning"
+  - title: "Others"
     url: /teaching/
 
-  - title: "Others"
+  - title: "Presentations"
     url: /portfolio/
 
     #- title: "Blog Posts"
