@@ -10,7 +10,7 @@ Data Science Projects
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ "Presentations" | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  <h2 id="{{ "Presentations" | slugify }}" class="archive__subtitle">{{ "Presentations" }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
