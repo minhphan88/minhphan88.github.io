@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 permalink: /preprocessing/
-title: Preprocessing
+title: "Data Preprocessing projects"
+author_profile: true
 ---
 
 
