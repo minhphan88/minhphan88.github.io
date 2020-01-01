@@ -7,13 +7,13 @@ main:
     url: /processing/
 
   - title: "Machine Learning"
-    url: /talks/
-
-  - title: "Others"
-    url: /teaching/
+    url: /machinelearning/
 
   - title: "Presentations"
-    url: /portfolio/
+    url: /presentations/
+
+  - title: "Others"
+    url: /others/
 
     #- title: "Blog Posts"
     #- url: /year-archive/

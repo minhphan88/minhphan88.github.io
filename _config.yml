@@ -192,6 +192,15 @@ collections:
   processing:
     output: true
     permalink: /:collection/:path/
+  machinelearning:
+    output: true
+    permalink: /:collection/:path/
+  presentations:
+    output: true
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
