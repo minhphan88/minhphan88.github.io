@@ -1,6 +1,7 @@
 ---
 title: "Data preprocessing in Python"
 collection: processing
+date: 2018-11-30
 permalink: /processing/python
 ---
 
