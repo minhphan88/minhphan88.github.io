@@ -6,35 +6,22 @@ permalink: /processing/python
 ---
 
 # Data preprocessing in Python
+## The project is an example of data preprocessing in Python
+
+The report covers three main sections:
+
+  1. Data Description.
+  2. Data Preprocessing.
+  3. Attribute exploration.
+
+The project demonstrates the ability to work with Python libraries include *Matplotlib, NumPy, Pandas, Seaborn and SciPy*
+
+The projects covers various steps of the data preprocessing includes
+  1. Dealing with continuous and categorical data.
+  2. Data normalisation.
+  3. Dealing with missing values.
+  4. Data exploration using univariate and  multivariate visualisation.
 
 
-The project is an example of data preprocessing using Jupyter Notebook.
-The data was 
 
-And here's some *italics*
-
-Here's some **bold** text.
-
-you can [download pdf](https://minhphan88.github.io/assets/Preprocessing-python.pdf) here.
-
-
-
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
+You can [download the report](https://minhphan88.github.io/assets/Preprocessing-python.pdf) here.
