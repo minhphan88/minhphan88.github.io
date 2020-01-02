@@ -1,30 +1,24 @@
 ---
 title: "Data preprocessing in Python"
 collection: processing
-date: 2018-11-30
+date: 2019-06-30
 permalink: /processing/python
 ---
 
-# Data preprocessing in python
+# Data preprocessing in Python
 
-## H2 Heading
 
-### H3 Heading
-
-Here's some basic text.
+The project is an example of data preprocessing using Jupyter Notebook.
+The data was 
 
 And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/minhphan88)?
+you can [download pdf](https://minhphan88.github.io/assets/Preprocessing-python.pdf) here.
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
 
-Here's a numbered list:
+
 1. First
 2. Second
 3. Third
