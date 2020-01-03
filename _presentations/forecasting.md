@@ -4,4 +4,4 @@ collection: presentations
 permalink: /presentations/forecasting
 ---
 
-Forecasting
+{% include video id="wzn_FPRb9ts" provider="youtube" %}
