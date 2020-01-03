@@ -3,8 +3,8 @@ title: "Forecasting- A visual presentation"
 collection: presentations
 permalink: /presentations/forecasting
 ---
-#
-##
+# A forecasting example using the Makridakis Competitions data (M3-compressed)
+## The project is a presentation of evaluation and comparison the accuracy of different forecasting methods
 
 The presentation covers three main sections:
 
@@ -22,7 +22,7 @@ All of these were achieved by creating appropriate customised functions in R to 
 
 The project demonstrates the ability to work with R libraries include *dLagM, forecast, ggplot2, Metrics, tidyverse, TSA, x12 etc*
 
-###The following video is the presentation  
+##The following video is the presentation  
 {% include video id="wzn_FPRb9ts" provider="youtube" %}
 
 You can [download the report](https://minhphan88.github.io/assets/forecastingreport.pdf) here. The details of the code can be found in the Appendix.
