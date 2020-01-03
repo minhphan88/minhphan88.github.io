@@ -1,6 +1,7 @@
 ---
 title: "Data Preprocessing"
 collection: processing
+date: 2018-06-30
 permalink: /processing/R
 
 ---
