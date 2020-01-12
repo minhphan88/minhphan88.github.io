@@ -287,6 +287,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
   # _processing
   - scope:
       path: ""
@@ -294,14 +295,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
-
+      share: true
    # _others
   - scope:
       path: ""
       type: others
     values:
-      layout: others
+      layout: single
       author_profile: true
       share: true
     # _machinelearning
@@ -309,7 +309,7 @@ defaults:
       path: ""
       type: machinelearning
     values:
-      layout: machinelearning
+      layout: single
       author_profile: true
       share: true
     # _presentations
@@ -317,6 +317,6 @@ defaults:
       path: ""
       type: presentations
     values:
-      layout: presentations
+      layout: single
       author_profile: true
       share: true
