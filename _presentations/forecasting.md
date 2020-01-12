@@ -3,7 +3,6 @@ title: "A forecasting example using the Makridakis Competitions data (M3-compres
 collection: presentations
 permalink: /presentations/forecasting
 ---
-
 ## The project is a presentation of evaluation and comparison the accuracy of different forecasting methods
 
 The presentation covers three main sections:

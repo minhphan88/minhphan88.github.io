@@ -3,7 +3,6 @@ title: "Bitcoins predictions - A Time Series Presentation"
 collection: presentations
 permalink: /presentations/timeseries
 ---
-
 ## The project is a presentation of a time series analysis.
 
 The presentation covers three main sections:
