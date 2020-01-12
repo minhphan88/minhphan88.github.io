@@ -4,8 +4,6 @@ collection: processing
 date: 2019-06-30
 permalink: /processing/python
 ---
-
-# Data preprocessing in Python
 ## The project is an example of data preprocessing in Python
 
 The report covers three main sections:

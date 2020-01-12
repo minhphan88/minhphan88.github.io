@@ -3,10 +3,8 @@ title: "Data Preprocessing in R"
 collection: processing
 date: 2018-06-30
 permalink: /processing/R
-
 ---
 
-# Data preprocessing in R
 ## The project is an example of data preprocessing in R
 
 The report covers an analysis of Australian meat consumption using 7 different data sets. The project made a conclusion regarding meat consumption and wastage in Australia, using statistical values from the combined dataset.
