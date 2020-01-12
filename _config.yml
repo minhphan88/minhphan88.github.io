@@ -292,9 +292,10 @@ defaults:
       path: ""
       type: processing
     values:
-      layout: processing
+      layout: single
       author_profile: true
-      share: true
+      
+
    # _others
   - scope:
       path: ""
