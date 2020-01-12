@@ -1,11 +1,11 @@
 ---
-title: "Machine learning 2.0"
+title: " Predicting Revenue-Related Metrics using Google ads data"
 collection: machinelearning
 permalink: /machinelearning/machinelearning-python
 
 ---
 
-# Predicting Revenue-Related Metrics using Google ads data
+
 ## The project is an example of Machine learning in Python
 
 

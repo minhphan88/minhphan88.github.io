@@ -1,9 +1,9 @@
 ---
-title: "Bitcoins predictions - A visual presentation"
+title: "Bitcoins predictions - A Time Series Presentation"
 collection: presentations
 permalink: /presentations/timeseries
 ---
-# Bitcoins predictions - A visual presentation
+
 ## The project is a presentation of a time series analysis.
 
 The presentation covers three main sections:

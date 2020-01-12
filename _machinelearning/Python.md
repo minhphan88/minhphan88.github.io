@@ -1,11 +1,11 @@
 ---
-title: "Machine learning 1.0"
+title: "How Non-genetic Genetic Affect Semen Quality - An Analysis Using Simple Machine Learning Models"
 collection: machinelearning
 permalink: /machinelearning/machinelearning-python
 
 ---
 
-# How Non-genetic Genetic Affect Semen Quality - An Analysis Using Simple Machine Learning Models
+
 ## The project is an example of Machine learning in Python
 
 The project demonstrates the ability to work with Python libraries include *Matplotlib, NumPy, Pandas, Seaborn and Sklearn*

@@ -1,9 +1,9 @@
 ---
-title: "Forecasting- A visual presentation"
+title: "A forecasting example using the Makridakis Competitions data (M3-compressed)"
 collection: presentations
 permalink: /presentations/forecasting
 ---
-# A forecasting example using the Makridakis Competitions data (M3-compressed)
+
 ## The project is a presentation of evaluation and comparison the accuracy of different forecasting methods
 
 The presentation covers three main sections:
