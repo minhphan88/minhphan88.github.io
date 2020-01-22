@@ -9,4 +9,5 @@ permalink: /others/mapreduce
 
 
 
+
 You can [download the R markdown report](https://minhphan88.github.io/assets/mapreducereport.pdf) here
