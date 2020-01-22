@@ -6,15 +6,20 @@ permalink: /processing/R
 ---
 ## About the project
   The project focuses on the topic of meat consumption efficiency in Australia. The project is an example of data preprocessing in R.
-### Goal
+
+## Goal
   The main goal of the project was to incorporate a data pre-processing to data from various sources.
-### Data
+
+## Data
   The project used 7 different data sets from various public sources.
-### Outcomes
+
+## Outcomes
   The project revealed that: From 1991 to 2017, an average Australian wasted about 45 kilograms of meat per year (~45 percent).
-### Limitations
+
+## Limitations
   The project has not taken into account the percentage of usability of each animal; the amount of meat wastage may includes non-consumable parts such as: bones, organs, etc. Therefore, the wasted amount does not necessarily indicate food wastage or financial loss.
-### What I've learned from this project
+
+## What I've learned from this project
   1. The process of data preprocessing
       The process is not linear; each of the steps of the process has be revisited multiple times during the project.
   2. The value of data processing

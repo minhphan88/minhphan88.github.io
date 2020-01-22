@@ -5,13 +5,16 @@ permalink: /presentations/forecasting
 ---
 ## About the project:
   The project is a presentation of evaluation and comparison the accuracy of different forecasting methods
-### Goal
+
+## Goal
   The project aims to evaluate and compare the accuracy of different forecasting methods
-### Data
+
+## Data
   International Institute of Forecasters (IIF) runs a competition, called M - Competitions, which is led by forecasting researcher Spyros Makridakis. The aim of the competition is to evaluate and compare the accuracy of forecasting methods over a massive collection of 3003 data series with different characteristics.
 
   The original dataset is reduced to 1000 series including yearly, quarterly, and monthly micro-economic, macro-economic, industrial, financial, and demographic time series data.
-### Presentation
+
+## Presentation
   The presentation of this project covers three parts:
     1. Modelling approach.
     2. Model specification.
@@ -27,7 +30,8 @@ permalink: /presentations/forecasting
     {% include video id="wzn_FPRb9ts" provider="youtube" %}
 
   You can [download the report](https://minhphan88.github.io/assets/forecastingreport.pdf) here. The details of the code can be found in the Appendix.
-### What I've learned from this project
+
+## What I've learned from this project
     1. Overfitting:
       Once a system learns too much from the data, the accuracy of the forecast will reduce due to overfitting.
       A model MASE does not guarantee good residual diagnostics.

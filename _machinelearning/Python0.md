@@ -6,16 +6,21 @@ permalink: /machinelearning/machinelearning-google
 ---
 ## About the project
   This is the second phase of the Predicting Revenue-Related Metrics using Google ads data, to check phase one please follow this [link](/processing/python).
-### Goal
+
+## Goal
  The project was designed to test different regressors in order to predict the revenue-related metric*, using Rooted Mean Squared Error(RMSE).
-### Data
+
+## Data
   This dataset contains online advertising data where the target feature is a revenue-related metric and the descriptive features are various advertising metrics and characteristics.
   The details of how this metric was created or what it measures was not given by the clients.
-### Outcomes
+
+## Outcomes
   Overall, most of models have the RMSE is around 1(0.9) dollar.
-### Limitations
+
+## Limitations
   The project does have its a few flaws and limitations (details in the report)
-### What I've learned from this project
+
+## What I've learned from this project
   1. Overfitting:
     The models with the lowest training RMSE does not guarantee the good RMSE in the test dataset.
   2. Data preparations

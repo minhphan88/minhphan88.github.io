@@ -5,7 +5,7 @@ date: 2019-06-30
 permalink: /processing/python
 ---
 ## About the project
-  The objective of this project is to predict the revenue-related metric using the dataset provided by a client, an ad agency. This project has two phases. Phase I focuses on data preprocessing and exploration, as covered in this report. We shall present model building in Phase II[link](/machinelearning/machinelearning-google).
+  The objective of this project is to predict the revenue-related metric using the dataset provided by a client, an ad agency. This project has two phases. Phase I focuses on data preprocessing and exploration, as covered in this report. We shall present model building in Phase II [(link)](/machinelearning/machinelearning-google).
   The project is an example of data preprocessing in Python
 
 ## Goal
