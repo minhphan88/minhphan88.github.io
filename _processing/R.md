@@ -4,10 +4,14 @@ collection: processing
 date: 2018-06-30
 permalink: /processing/R
 ---
-## The project is an example of data preprocessing in R
-
+## About the project
+### The project is an example of data preprocessing in R
+### Goal
+### Data
 The report covers an analysis of Australian meat consumption using 7 different data sets. The project made a conclusion regarding meat consumption and wastage in Australia, using statistical values from the combined dataset.
-
+### Outcomes
+### Limitations
+## What  I've learned from this projects
 The project demonstrates the ability to work with R packages include *Tidyr, Dplyr, Reader, Outliers, Lubridate and Stringr*
 
 The projects covers various steps of the data preprocessing includes
