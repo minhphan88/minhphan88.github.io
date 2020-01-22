@@ -7,18 +7,23 @@ permalink: /processing/python
 ## About the project
   The objective of this project is to predict the revenue-related metric using the dataset provided by a client, an ad agency. This project has two phases. Phase I focuses on data preprocessing and exploration, as covered in this report. We shall present model building in Phase II[link](/machinelearning/machinelearning-google).
   The project is an example of data preprocessing in Python
-### Goal
+
+## Goal
   This project aims to prepare the data for modelling process. The project includes three sections:
   1. Describing the dataset and its attributes.
   2. Data pre-processing
   3. Exploring each attribute and their inter-relationships.
-### Data
+
+## Data
   This dataset contains online advertising data where the target feature is a revenue-related metric and the descriptive features are various advertising metrics and characteristics. The data was provided as a private Kaggle completion.
-### Outcomes
+
+## Outcomes
   The project provided an overall understanding of the dataset and its attributes via visualisations. In addition, the dataset was prepared appropriately for the modelling phase.
-### Limitations
+
+## Limitations
   The project can benefits from expert knowledge regrading some of the attributes such as ratio1, ratio2, ratio3, etc.
-### What I've learned from this project
+
+## What I've learned from this project
   1. The process
     The data pre-process is not linear; each of the steps of the process has be revisited multiple times during the project.
   2. Expert knowledge matters
