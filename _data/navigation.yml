@@ -2,11 +2,11 @@
 main:
   - title: "Data Preprocessing"
     url: /processing/
-  - title: "Machine learning projects"
+  - title: "Machine Learning Projects"
     url: /machinelearning/
   - title: "Presentations"
     url: /presentations/
-  - title: "Others"
+  - title: "Other Projects"
     url: /others/
   # - title: "Sample Posts"
   #   url: /year-archive/

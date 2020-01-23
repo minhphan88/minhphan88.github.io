@@ -1,7 +1,7 @@
 ---
-title: "MapReduce"
+title: "Dashboard"
 collection: others
-permalink: /others/mapreduce
+permalink: /others/dashboard
 ---
 
 ## The project is a report on MapReduce.
