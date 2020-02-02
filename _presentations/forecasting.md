@@ -18,16 +18,16 @@ permalink: /presentations/forecasting
 ## Presentation
   The presentation of this project covers three parts:
 
-    1. Modelling approach.
-    2. Model specification.
-    3. Predictions using the most appropriate model.
+  1. Modelling approach.
+  2. Model specification.
+  3. Predictions using the most appropriate model.
 
   The project demonstrates a forecasting analysis using:
 
-    1. Exponential smoothing methods.
-    2. Linear Innovations State Space Models.
-    3. Nonlinear and Heteroscedastic Innovations State Space Models
-    4. Selections of model using various metrics (AIC, BIC, MASE, etc)
+  1. Exponential smoothing methods.
+  2. Linear Innovations State Space Models.
+  3. Nonlinear and Heteroscedastic Innovations State Space Models
+  4. Selections of model using various metrics (AIC, BIC, MASE, etc)
 
   All of these were achieved by creating appropriate customised functions in R to analyse 1000 time series.
 
@@ -37,7 +37,8 @@ permalink: /presentations/forecasting
   You can [download the report](https://minhphan88.github.io/assets/forecastingreport.pdf) here. The details of the code can be found in the Appendix.
 
 ## What I've learned from this project
-    1. Overfitting:Once a system learns too much from the data, the accuracy of the forecast will reduce due to overfitting. A model MASE does not guarantee good residual diagnostics.
-    2. Communication is critical: The fate of a project can be easily altered by mis-communication. In the beginning, I have optimised the system for the forecasting MASE, however, I have changed it to optimise for training MASE due to a mis-communication with the project supervisor.
+  1. Overfitting: Once a system learns too much from the data, the accuracy of the forecast will reduce due to overfitting. A model MASE does not guarantee good residual diagnostics.
+
+  2. Communication is critical: The fate of a project can be easily altered by mis-communication. In the beginning, I have optimised the system for the forecasting MASE, however, I have changed it to optimise for training MASE due to a mis-communication with the project supervisor.
 
   The project demonstrates the ability to work with R libraries including *fGarch,forecast,fUnitRoots, lmtest, rugarch, TSA, x12 etc*
