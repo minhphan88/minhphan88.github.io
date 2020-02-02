@@ -16,7 +16,7 @@ permalink: /others/mapreduce
   The algorithms were tested against variables including: data size, number of mappers, number of reducers and number of slave nodes.
   The context of co-occurrence is the closest 2 words in the same sentence.
 ## Outcomes
-  Overall,the “stripe” approach performs better than the “pairs” approach in all the testing environments.
+  Overall, the “stripe” approach performs better than the “pairs” approach in all the testing environments.
 ## What I've learned from this project
   1. Choosing the best algorithm
 
@@ -25,8 +25,8 @@ permalink: /others/mapreduce
 
       The best way to learn a new tool is do emerge yourself in the practical environment and be curious. In addition, the learning process benefits from making lots small mistakes, then recover/learn from those errors quickly.
 
-You can [download the R markdown report](https://minhphan88.github.io/assets/mapreducereport.pdf) here
-You can [download the code](https://minhphan88.github.io/) here
+You can [download the project report here](https://minhphan88.github.io/assets/mapreducereport.pdf) here
+
 
 The project demonstrates the ability to work tools including
   1. A complete MapReduce implementation in Java with some components of Natural Language Processing.
