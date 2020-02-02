@@ -37,7 +37,11 @@ permalink: /others/dashboard
 
   You can [interact with the dashboard](https://mqphan143.shinyapps.io/AssigmentFinal/) here.
 
+## Limitations
+  The dashboard suffers from a few limitations, the main ones include:
 
+  1. The lack of communication between the two main visualisations, users have to go choose the suburb manually.
+  2. The dashboard is yet intuitive, instructions are required.
 
 ## What I've learned from this project
   1. People love to play: Interactive visualisation appeals to our curious nature and desire to play [(Murray 2013, page 26-27)][https://www.imel.ba/edukacija/interactivedatavisualizationfortheweb.pdf].

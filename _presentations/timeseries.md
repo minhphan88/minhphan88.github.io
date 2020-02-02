@@ -8,7 +8,7 @@ permalink: /presentations/timeseries
   The project is a presentation of a time series analysis.
 
 ## Goal
-  The project aims to accurately predict the value of bitcoin for the next 10 days using the appropriate time series analysis.
+  The project aims to accurately predict the value of bitcoin for the following 10 days using the appropriate time series analysis (using ARIMA models).
 
 ## Data
   The dataset is the daily closing price of bitcoin from the 27th of April 2013 to the 24th of February 2019 (Source: coinmarketcap.com)
@@ -27,10 +27,10 @@ permalink: /presentations/timeseries
   3. Models fitting.
   4. Model Diagnostics
 
-  The project is presented in the folling video
+  The project is presented in the following video
     {% include video id="1jdl9flcZmw" provider="youtube" %}
 
-  The analysis report includes descriptive analysis, proper visualisation, model specification, model fitting and selection, and diagnostic checking.
+  The analysis report includes descriptive analysis, time series visualisation, model specification, model fitting and selection, and diagnostic checking.
 
   You can [downloaded the R markdown report](https://minhphan88.github.io/assets/timeseriesreport.pdf) here.
 
@@ -39,4 +39,4 @@ permalink: /presentations/timeseries
 
 The project demonstrates the ability to work with R libraries including *fGarch,forecast,fUnitRoots, lmtest, rugarch, TSA, x12 etc*
 
-*Note: The presentation used MAE instead of MASE, this was due to a last minute change from the project supervisor*
+*Note: The presentation used MAE instead of MASE, this was a last minute change*

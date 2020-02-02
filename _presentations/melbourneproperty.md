@@ -11,7 +11,7 @@ permalink: /presentations/property
 ## Goal
  The project aims to provide useful informations for individuals who wish to find a home in one of the world most livable city- Melbourne.
 
- This is a first cycle of a minimal viable analysis, the feedbacks of this story will be used to create an interactive [dashboard](/others/dashboard).
+ This is a first cycle of a minimal viable analysis. The feedbacks of this will be used to create an interactive [dashboard](/others/dashboard).
 ## Data
   The projects combined three different datasets from Domain Media (texts), State Government of Victoria (reports) and a Kaggle competion.
 
@@ -22,9 +22,9 @@ permalink: /presentations/property
   You can [interact with the visualisation](http://rpubs.com/minhphan/dataviz2) here
 
 ## Limitations
-  The project only considered a small segment of the property landscape in Melbourne- 2 bed-room units. Other types of properties such as houses and apartments can provide a very different outcome.
+  The project only considered a small segment of the property landscape in Melbourne- 2 bedroom units. Other types of properties such as houses and apartments can provide a very different outcome.
 
 ## What I've learned from this project:
-  1. Simplicity trumps: "Everything should be made as simple as possible, but no simpler."  Albert Einstein
-    Visualisation is created to serve the purpose communication, simplicity shows clarity in this communication.
-  2. Video Editing: The project presented me with the opportunity to learn how to create and edit video. The process has deepen my appreciation of videos as a storytelling medium as well as the craft of creating them.
+  1. Simplicity trumps: Visualisation is created to serve the purpose of communication; simplicity provides clarity.
+    *"Everything should be made as simple as possible, but no simpler." (Albert Einstein)*
+  2. Video Editing: The project presented me with the opportunity to learn how to create and edit video. The process has deepened my appreciation of videos as a storytelling medium, as well as the craft of creating them.
