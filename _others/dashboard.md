@@ -5,7 +5,7 @@ permalink: /others/dashboard
 ---
 
 ## About the project
-  The project is an extension of the [Melbourne property story](/presentations/property). The dashboard can be used to gather interests
+  The project is an extension of the [Melbourne property story](/presentations/property).
 
 ## Goal
   The project aims to create an interactive dashboard for the audience of [Melbourne property story](/presentations/property). The dashboard offers the opportunity to investigate the suburbs' growths in details.
@@ -14,7 +14,7 @@ permalink: /others/dashboard
   The project used public data from Domain Media (texts), State Government of Victoria (property price report)
 
 ## Methodology
-  The dashboard was created as a minimal viable product using R shinyapps and supportive libraries.
+  The dashboard was created using R shinyapps and supportive libraries.
 
 ## Outcomes
 
@@ -39,9 +39,18 @@ permalink: /others/dashboard
 
       Interactive visualisation appeals to our curious nature and desire to play [(Murray 2013, page 26-27)][https://www.imel.ba/edukacija/interactivedatavisualizationfortheweb.pdf].
 
-  2. Minimal viable product:
+  2. Minimal viable analysis:
 
-      The project improve my understanding to what a M.V.P is:  It does not has to be perfect, but
+      A. Create a usable analysis [Melbourne property story visualisation](https://rpubs.com/minhphan/dataviz2).
+
+      B. Then present the insights with the audience, collect feedbacks.
+
+      C. Improve the analysis with more features based on the feedbacks [the dashboard](https://mqphan143.shinyapps.io/AssigmentFinal/).
+
+      D. Collect more feedbacks and the cycle continues.
+
+
+
 
 
 
