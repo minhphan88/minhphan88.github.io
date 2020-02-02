@@ -1,6 +1,7 @@
 ---
 title: " Predicting Revenue-Related Metrics using Google ads data, phase 2"
 collection: machinelearning
+date: 2019-07-25
 permalink: /machinelearning/machinelearning-google
 
 ---
@@ -16,8 +17,8 @@ permalink: /machinelearning/machinelearning-google
   The data includes information of Display Advertising, you can learn more about it [here](https://support.google.com/google-ads/answer/2567043?hl=en).
 
 ## Outcomes
-  Overall, most of models have the RMSE is around 1(0.9) dollar. The feature-selection using F1 score suggested that some important variables are the types of ads (asType), how much of the ads was seen (asSeen), which day of the week the ad was seen, etc.
-
+  Overall, most of models have the RMSE is around 1(0.9) dollar. The feature-selection using F1 score suggested that some important variables are the types of ads (asType), how much of the ads was seen (asSeen), which day of the week the ad was seen.
+  ![F1 Score](/assets/f1.jpg){:class="img-responsive"}
 ## Limitations
   The project does have its a few flaws and limitations (details in the report)
 

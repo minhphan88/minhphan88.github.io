@@ -26,7 +26,7 @@ permalink: /processing/python
 
 ## What I've learned from this project
 1. The data preprocessing process is not linear; each of the steps of the process has be revisited multiple times during the project.
-2. Expert knowledge matters: The project presented myself with an exciting learning opportunity; I have learned so much more about Google ads. However, expert knowledge will add more layers the understanding of the dataset.
+2. Expert knowledge matters: The project presented myself with an exciting learning opportunity; I have learned so much more about Google ads. However, expert knowledge will add more layers to the understanding in a fraction of the time spent.
 
 The projects covers various steps of the data preprocessing including:
 
