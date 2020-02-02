@@ -25,10 +25,8 @@ permalink: /processing/python
   The project can benefits from  marketing expert knowledge regarding some of the attributes such as ratio1, ratio2, ratio3, etc.
 
 ## What I've learned from this project
-  1. The process
-    The data pre-process is not linear; each of the steps of the process has be revisited multiple times during the project.
-  2. Expert knowledge matters
-    The project presented myself with an exciting learning opportunity; I have learned so much more about Google ads. However, expert knowledge will add more layers the understanding of the dataset.
+1. The data preprocessing process is not linear; each of the steps of the process has be revisited multiple times during the project.
+2. Expert knowledge matters: The project presented myself with an exciting learning opportunity; I have learned so much more about Google ads. However, expert knowledge will add more layers the understanding of the dataset.
 
 The projects covers various steps of the data preprocessing including:
 
