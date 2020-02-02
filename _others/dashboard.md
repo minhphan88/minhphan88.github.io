@@ -44,7 +44,7 @@ permalink: /others/dashboard
   2. The dashboard is yet intuitive, instructions are required.
 
 ## What I've learned from this project
-  1. People love to play: Interactive visualisation appeals to our curious nature and desire to play [(Murray 2013, page 26-27)][https://www.imel.ba/edukacija/interactivedatavisualizationfortheweb.pdf].
+  1. People love to play: Interactive visualisation appeals to our curious nature and desire to play [(Murray 2013, page 26-27)](https://www.imel.ba/edukacija/interactivedatavisualizationfortheweb.pdf).
 
   2. Minimal viable analysis:
 
