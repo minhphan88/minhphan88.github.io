@@ -59,4 +59,4 @@ permalink: /others/dashboard
   Note: The quicker we can produce a viable analysis, the earlier we can receive feedbacks and improve the analysis; the analysis process is cyclical rather than linear.
 
 
-The project demonstrates the ability to work with R libraries including *plotly, shiny, and other supportive libraries*
+The project demonstrates the ability to work with R libraries including *plotly, shiny, and other supportive libraries.*
