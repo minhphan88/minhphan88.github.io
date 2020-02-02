@@ -10,7 +10,7 @@ permalink: /processing/python
   The project is an example of data preprocessing in Python.
 
 ## Goal
-  This project aims to prepare the data for modelling process. The project includes three sections:
+  This project aims to prepare the data for the modelling process. The project includes three sections:
   1. Describing the dataset and its attributes.
   2. Data pre-processing
   3. Exploring each attribute and their inter-relationships.
@@ -20,17 +20,20 @@ permalink: /processing/python
 
 ## Outcomes
   The project provided an overall understanding of the dataset and its attributes via visualisations. In addition, the dataset was prepared appropriately for the modelling phase.
-
+  ![Heatmap](/assets/heatmap.jpg){:class="img-responsive"}
 ## Limitations
-  The project can benefits from expert knowledge regarding some of the attributes such as ratio1, ratio2, ratio3, etc.
+  The project can benefits from  marketing expert knowledge regarding some of the attributes such as ratio1, ratio2, ratio3, etc.
 
 ## What I've learned from this project
   1. The process
+
     The data pre-process is not linear; each of the steps of the process has be revisited multiple times during the project.
   2. Expert knowledge matters
+
     The project presented myself with an exciting learning opportunity; I have learned so much more about Google ads. However, expert knowledge will add more layers the understanding of the dataset.
 
 The projects covers various steps of the data preprocessing including:
+
   1. Dealing with continuous and categorical data.
   2. Data normalisation.
   3. Dealing with missing values.

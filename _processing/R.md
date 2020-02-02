@@ -1,7 +1,7 @@
 ---
 title: "Data Preprocessing in R"
 collection: processing
-date: 2018-06-30
+date: 2018-12-30
 permalink: /processing/R
 ---
 ## About the project
@@ -21,13 +21,18 @@ permalink: /processing/R
 
 ## What I've learned from this project
   1. The process of data preprocessing
+
       The process is not linear; each of the steps of the process has be revisited multiple times during the project.
   2. The value of data processing
+
       The data preprocessing is not only important for modelling. The process of working with multiple datasets from various sources presents a tremendous learning opportunity regrading the topic of interest.
   3. The unexpected lesson
+
       Although, the project has failed to draw a valid conclusion regrading food wastage, it has raised a question regrading the efficiency of using animals as food: Is 55 percent good enough? Considering the current state of climate change.
 
+
 The projects covers various steps of the data preprocessing including:
+
   1. Data cleaning.
   2. Data normalisation.
   3. Data transformation.

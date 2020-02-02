@@ -13,9 +13,10 @@ permalink: /machinelearning/machinelearning-google
 ## Data
   This dataset contains online advertising data where the target feature is a revenue-related metric and the descriptive features are various advertising metrics and characteristics.
   The details of how this metric was created or what it measures was not given by the clients.
+  The data includes information of Display Advertising, you can learn more about it [here](https://support.google.com/google-ads/answer/2567043?hl=en).
 
 ## Outcomes
-  Overall, most of models have the RMSE is around 1(0.9) dollar.
+  Overall, most of models have the RMSE is around 1(0.9) dollar. The feature-selection using F1 score suggested that some important variables are the types of ads (asType), how much of the ads was seen (asSeen), which day of the week the ad was seen, etc.
 
 ## Limitations
   The project does have its a few flaws and limitations (details in the report)
