@@ -5,7 +5,7 @@ permalink: /others/dashboard
 ---
 
 ## About the project
-  The project is an extension of the [Melbourne property story](/presentations/property).
+  The project is an extension of the [Melbourne property story](/presentations/property). The dashboard can be used to gather interests
 
 ## Goal
   The project aims to create an interactive dashboard for the audience of [Melbourne property story](/presentations/property). The dashboard offers the opportunity to investigate the suburbs' growths in details.
@@ -18,15 +18,18 @@ permalink: /others/dashboard
 
 ## Outcomes
 
-  The dashboard allow users to find which suburb that would like to buy based on the livability ranking, median price and distance the the Central Business District.
+  The dashboard allow users to find which suburb that would like to buy based on the livability ranking, median price and distance the the Central Business District. In this example we chose MENZIES CREEK.
+  ![choose a suburb](/assets/choose_suburb.jpg){:class="img-responsive"}
 
-
-  Then they can investigate the growth of that suburb.
-
+  Then they can investigate the growth of MENZIES CREEK.
+  ![compare with other suburbs](/assets/growth.jpg){:class="img-responsive"}
   In addition, the dashboard also provide the opportunity to compare this growth with the general trend,
-
+  ![compare with other suburbs](/assets/suburb_2.jpg){:class="img-responsive"}
   or with other suburb.
   ![compare with other suburbs](/assets/suburb_1.jpg){:class="img-responsive"}
+
+
+
   You can [interact with the dashboard](https://mqphan143.shinyapps.io/AssigmentFinal/) here.
 
 
@@ -35,6 +38,11 @@ permalink: /others/dashboard
   1. People love to play:
 
       Interactive visualisation appeals to our curious nature and desire to play [(Murray 2013, page 26-27)][https://www.imel.ba/edukacija/interactivedatavisualizationfortheweb.pdf].
+
+  2. Minimal viable product:
+
+      The project improve my understanding to what a M.V.P is:  It does not has to be perfect, but
+
 
 
 
