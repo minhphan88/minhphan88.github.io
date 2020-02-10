@@ -6,7 +6,7 @@ permalink: /presentations/property
 
 ---
 ## About the project
-  The project is an example of a data science story.
+  The project is an example of data science storytelling.
 
 ## Goal
  The project aims to provide useful informations for individuals who wish to find a home in one of the world most livable city- Melbourne.

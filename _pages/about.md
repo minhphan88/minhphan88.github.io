@@ -11,3 +11,6 @@ redirect_from:
 
 
   I thrive in a fast-moving changing environment. I celebrate when presented with new challenges. In addition, I love engaging people at all levels with the enthusiasm for learning and building lasting relationships.
+
+
+  
